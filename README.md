@@ -10,5 +10,10 @@ pip install cryptography
 Execute the Python script:
 python main.py
 
+Usage Guide
+🔑 Generate Encryption Key
+Click the "Generate Key" button.
+Choose a location to save the generated key file.
+The key file will be stored in the selected location.
 
 
