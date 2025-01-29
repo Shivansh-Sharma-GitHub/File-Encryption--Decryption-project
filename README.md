@@ -6,4 +6,9 @@ Installation & Setup
 Ensure Python is installed, then install the required libraries:
 pip install cryptography
 
+2. Run the Application
+Execute the Python script:
+python main.py
+
+
 
