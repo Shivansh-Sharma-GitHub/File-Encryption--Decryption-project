@@ -16,4 +16,9 @@ Click the "Generate Key" button.
 Choose a location to save the generated key file.
 The key file will be stored in the selected location.
 
+🔒 Encrypt Files
+Click the "Encrypt" button.
+Select the key file that was generated earlier.
+Choose one or more files to encrypt.
+The selected files will be encrypted and replaced with encrypted versions.
 
