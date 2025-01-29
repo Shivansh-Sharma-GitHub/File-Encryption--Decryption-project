@@ -22,3 +22,17 @@ Select the key file that was generated earlier.
 Choose one or more files to encrypt.
 The selected files will be encrypted and replaced with encrypted versions.
 
+🔓 Decrypt Files
+Click the "Decrypt" button.
+Select the same key file used for encryption.
+Choose one or more encrypted files to decrypt.
+The files will be restored to their original form.
+Error Handling
+If no key or file is selected, an error message is displayed.
+If an invalid key file is used, an error is shown.
+Future Enhancements
+🔹 Improve UI with better design.
+🔹 Add password protection for key files.
+🔹 Support for bulk encryption and decryption.
+
+🚀 Enjoy Secure File Encryption & Decryption!
